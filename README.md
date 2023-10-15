@@ -1,7 +1,7 @@
 # fav_py_visualization
 This repo features my favorite visualization made with Python.
 
-You will the following visualization techniques and examples:
+You will find the following visualization techniques and examples:
 
 <table width="100%" spacing="2" padding="2" BORDER="0">
   <TR>
