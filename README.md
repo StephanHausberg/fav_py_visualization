@@ -20,6 +20,11 @@ You will find the following visualization techniques and examples (go directly t
       <img src  = "basemap_screenshot.png" width =150 border =0></A><BR>
       Basemap Chart - covered in basemap_chart.ipynb
     </td>
+      <td width = "150">
+      <A HREF="image_slider.ipynb">
+      <img src  = "imageslider.png" width =150 border =0></A><BR>
+      Imageslider for charts - covered in image_slider.ipynb
+    </td>
   </TR>
 
   </table>
