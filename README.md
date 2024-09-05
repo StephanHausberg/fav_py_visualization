@@ -23,7 +23,7 @@ You will find the following visualization techniques and examples (go directly t
       <td width = "150">
       <A HREF="image_slider.ipynb">
       <img src  = "Imageslider.png" width =150 border =0></A><BR>
-      Imageslider for charts - covered in image_slider.ipynb
+      Imageslider for charts - see image_slider.ipynb
     </td>
   </TR>
 
